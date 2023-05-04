@@ -14,7 +14,7 @@ dependencies:
   - nodejs
   - numpy
   - matplotlib
-  - rapids=0.13 # necessary for the MNIST demo
+  - rapids # necessary for the MNIST demo
   - pip
   # - pip:
   #     - python-language-server
